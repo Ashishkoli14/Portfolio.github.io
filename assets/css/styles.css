@@ -302,6 +302,7 @@ img {
   fill: var(--first-color);
 }
 
+/*==================== MAIN IMAGE TO 100% ====================*/
 .home__blob-img {
   width: 100%;
 }
