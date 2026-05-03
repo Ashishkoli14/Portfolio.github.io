@@ -4,7 +4,7 @@ IT Officer · Data Professional · Web Developer
 
 A premium dark portfolio built as a single-file index.html — no frameworks, no build tools, just hand-crafted HTML, CSS, and vanilla JS.
 
-🔗 Live: ashishkoli14.github.io/Portfolio.github.io
+🔗 Live: [ashishkoli14.github.io/Portfolio.github.io](https://ashishkoli14.github.io/Portfolio.github.io/)
 
 What's Inside
 Hero — animated typewriter name, cycling role text, stats bar
